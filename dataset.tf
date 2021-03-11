@@ -10,6 +10,7 @@
 #   ]
 
 #   editors = [
-
+      'lulu.melis', 
+      'luisa.melis'
 #   ]
 # }
